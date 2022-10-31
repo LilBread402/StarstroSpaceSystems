@@ -2,4 +2,4 @@ StarstroSpacesystems is a mod designed to add ksp parts that we find interesting
 
 Creators of the mod are Lil_Bread402 and Starkillerdude.
 
-All Rights Reserve.
+All Rights Reserved.
