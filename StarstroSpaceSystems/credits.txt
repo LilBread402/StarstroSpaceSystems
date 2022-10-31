@@ -9,6 +9,7 @@ Dependency credits:
   Sarbian & Blowfish - Authors of Module Manager
   Nertea - Author of Waterfall
   Roverdude - Author of Community Resource Pack
+  CobaltWold - Author of Bluedog Design Bureau
   
 A final special thanks to everyone who has supported this mod as it's being developed. This truly is a fun thing for both of us to do.
 
