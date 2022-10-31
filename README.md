@@ -1,1 +1,5 @@
-This mod is my first attempt at an actual part mod. It will take time to make but yk it's something I like doing so I'll keep to making these
+StarstroSpacesystems is a mod designed to add ksp parts that we find interesting. Currently requires Bluedog Design Bureau, Textures Unlimited, and B9 partswitch.
+
+Creators of the mod are Lil_Bread402 and Starkillerdude.
+
+All Rights Reserve.
