@@ -1,0 +1,17 @@
+StarstroSpaceSystems was created by Lil_break402/Starstro and StarKillerDude
+
+special thanks to AmateurAstronaut, Steven Tyalor (LMSteven), Talv, Marc, Antiperson, PTrevs.
+
+Another special thanks to people like Cobalt, Zorg, Invaderchaos, Valorie, Benjee10, Roger, and many others for helping us make this mod, without you none of this could be pobbile.
+
+Dependency credits:
+  Blowfish - Author of B9Partswitch
+  Sarbian & Blowfish - Authors of Module Manager
+  Nertea - Author of Waterfall
+  Roverdude - Author of Community Resource Pack
+  
+A final special thanks to everyone who has supported this mod as it's being developed. This truly is a fun thing for both of us to do.
+
+Programs used (for those curious):
+	Modeling is done in Blender
+	Texturing done using Adobe Photoshop, Gimp, Paint.net
