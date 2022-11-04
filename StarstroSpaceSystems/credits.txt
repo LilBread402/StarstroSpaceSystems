@@ -1,15 +1,15 @@
 StarstroSpaceSystems was created by Lil_break402/Starstro and StarKillerDude
 
-special thanks to AmateurAstronaut, Steven Tyalor (LMSteven), Talv, Marc, Antiperson, PTrevs.
+special thanks to AmateurAstronaut, Steven Taylor (LMSteven), Talv, Marc, Antiperson, PTrevs.
 
-Another special thanks to people like Cobalt, Zorg, Invaderchaos, Valorie, Benjee10, Roger, and many others for helping us make this mod, without you none of this could be pobbile.
+Another special thanks to people like Cobalt, Zorg, Invaderchaos, Valorie, Benjee10, Roger, and many others for helping us make this mod, without you none of this could be possible.
 
 Dependency credits:
   Blowfish - Author of B9Partswitch
   Sarbian & Blowfish - Authors of Module Manager
   Nertea - Author of Waterfall
   Roverdude - Author of Community Resource Pack
-  CobaltWold - Author of Bluedog Design Bureau
+  CobaltWolf - Author of Bluedog Design Bureau
   
 A final special thanks to everyone who has supported this mod as it's being developed. This truly is a fun thing for both of us to do.
 
